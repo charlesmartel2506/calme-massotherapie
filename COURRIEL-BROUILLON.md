@@ -14,7 +14,7 @@ Douze ans de pratique, une formation à Kiné-Concept, membre RMPQ — mais quan
 
 Je vous ai construit un site pour ça :
 
-https://charlesmartel2506.github.io/calme-massotherapie/
+https://vaelordesign.github.io/calme-massotherapie/
 
 Gratuit, aucune obligation. Si vous l'aimez, on en reparle.
 
